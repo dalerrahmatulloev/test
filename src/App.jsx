@@ -26,7 +26,6 @@ function App() {
     }
   }
   console.log(data);
-  
 
   const handleAnswer = (selectedOption) => {
     const answer = data[answerIndex];
@@ -187,7 +186,11 @@ function App() {
                 {videos.map((el, ind) => (
                   <iframe
                     key={ind}
-                    src={el.includes("youtu.be")? el.replace("youtu.be", "www.youtube.com/embed") : el}
+                    src={
+                      el.includes("youtu.be")
+                        ? el.replace("youtu.be", "www.youtube.com/embed")
+                        : el
+                    }
                     width="654"
                     height="368"
                     frameBorder="0"
@@ -207,6 +210,27 @@ function App() {
               </p>
             </div>
           )}
+
+          <div className="mt-[50px]">
+            <Button
+              onClick={() => {
+                setStart(false);
+                setAnswer("");
+                setСomplexity("");
+                setCategory("");
+                setSubcategories("");
+                setData(null);
+                setAnswerIndex(0);
+                setWrongAnswers([]);
+                setVideos([]);
+                setResults(false);
+              }}
+              type="primary"
+              size="large"
+            >
+              Пройти тест заново
+            </Button>
+          </div>
         </div>
       ) : data ? (
         <div className={`flex flex-col items-center gap-[20px]`}>
