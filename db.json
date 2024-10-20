@@ -1,0 +1,149 @@
+{
+  "math": {
+    "arithmetic": {
+      "entry level": [
+        {
+          "id": 1,
+          "question": "Сколько будет 45 + 67?",
+          "options": [
+            "102",
+            "112",
+            "122",
+            "130"
+          ],
+          "answer": "112",
+          "video": [
+            "https://youtu.be/O_djk_WGV6M"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Найдите результат: 5 × 6.",
+          "options": [
+            "20",
+            "25",
+            "30",
+            "35"
+          ],
+          "answer": "30",
+          "video": [
+            "https://youtu.be/NjiFMZGUtK8"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Чему равно 81 - 39?",
+          "options": [
+            "32",
+            "42",
+            "52",
+            "62"
+          ],
+          "answer": "42",
+          "video": [
+            "https://youtu.be/O_djk_WGV6M",
+            "https://youtu.be/J2XHp2yBsbw"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Если у Вас есть 3 яблока, и вы купили ещё 4, сколько всего у Вас яблок?",
+          "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": "7",
+          "video": [
+            "https://youtu.be/O_djk_WGV6M"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Сколько будет 12 ÷ 4?",
+          "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "answer": "3",
+          "video": [
+            "https://youtu.be/FuIjsjrrgbA",
+            "https://youtu.be/aGqKuvUxhsY"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Чему равно 9 × 9?",
+          "options": [
+            "72",
+            "81",
+            "90",
+            "99"
+          ],
+          "answer": "81",
+          "video": [
+            "https://youtu.be/NjiFMZGUtK8"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Какое число следует после 29?",
+          "options": [
+            "28",
+            "30",
+            "31",
+            "32"
+          ],
+          "answer": "30"
+        },
+        {
+          "id": 8,
+          "question": "Найдите результат: 15 - 7.",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "answer": "8",
+          "video": [
+            "https://youtu.be/J2XHp2yBsbw",
+            "https://youtu.be/O_djk_WGV6M"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Сколько будет 100 + 200?",
+          "options": [
+            "250",
+            "300",
+            "350",
+            "400"
+          ],
+          "answer": "300",
+          "video": [
+            "https://youtu.be/O_djk_WGV6M"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Сколько будет 16 ÷ 2?",
+          "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+          ],
+          "answer": "8",
+          "video": [
+            "https://youtu.be/FuIjsjrrgbA",
+            "https://youtu.be/aGqKuvUxhsY"
+          ]
+        }
+      ]
+    }
+  }
+}
