@@ -143,6 +143,152 @@
             "https://youtu.be/aGqKuvUxhsY"
           ]
         }
+      ],
+      "intermediate level": [
+        {
+          "id": 1,
+          "question": "Найдите результат: 125 × 4.",
+          "options": [
+            "400",
+            "500",
+            "600",
+            "700"
+          ],
+          "answer": "500",
+          "video": [
+            "https://youtu.be/NjiFMZGUtK8"
+          ]
+        },
+        {
+          "id": 2,
+          "question": "Чему равно 240 ÷ 8?",
+          "options": [
+            "25",
+            "30",
+            "35",
+            "40"
+          ],
+          "answer": "30",
+          "video": [
+            "https://youtu.be/FuIjsjrrgbA",
+            "https://youtu.be/aGqKuvUxhsY"
+          ]
+        },
+        {
+          "id": 3,
+          "question": "Решите уравнение: 3x + 7 = 16.",
+          "options": [
+            "x = 2",
+            "x = 3",
+            "x = 4",
+            "x = 5"
+          ],
+          "answer": "x = 3",
+          "video": [
+            "https://youtu.be/Ty1jeXWabKg",
+            "https://youtu.be/xapDNB2zD6U"
+          ]
+        },
+        {
+          "id": 4,
+          "question": "Чему равно: 2^5?",
+          "options": [
+            "16",
+            "24",
+            "32",
+            "64"
+          ],
+          "answer": "32",
+          "video": [
+            "https://youtu.be/3J16ylQGSP0"
+          ]
+        },
+        {
+          "id": 5,
+          "question": "Вычислите: (45 + 55) ÷ 10.",
+          "options": [
+            "8",
+            "9",
+            "10",
+            "11"
+          ],
+          "answer": "10",
+          "video": [
+            "https://youtu.be/FuIjsjrrgbA",
+            "https://youtu.be/aGqKuvUxhsY"
+          ]
+        },
+        {
+          "id": 6,
+          "question": "Какой угол образует перпендикулярный прямоугольный треугольник?",
+          "options": [
+            "30°",
+            "60°",
+            "90°",
+            "120°"
+          ],
+          "answer": "90°",
+          "video": [
+            "https://youtu.be/mXo94sfHy74"
+          ]
+        },
+        {
+          "id": 7,
+          "question": "Решите: √144.",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "answer": "12",
+          "video": [
+            "https://youtu.be/GwQyluXibSU"
+          ]
+        },
+        {
+          "id": 8,
+          "question": "Чему равно 14 × 14?",
+          "options": [
+            "196",
+            "206",
+            "216",
+            "226"
+          ],
+          "answer": "196",
+          "video": [
+            "https://youtu.be/NjiFMZGUtK8"
+          ]
+        },
+        {
+          "id": 9,
+          "question": "Решите уравнение: 5x - 3 = 22.",
+          "options": [
+            "x = 3",
+            "x = 4",
+            "x = 5",
+            "x = 6"
+          ],
+          "answer": "x = 5",
+          "video": [
+            "https://youtu.be/Ty1jeXWabKg",
+            "https://youtu.be/xapDNB2zD6U"
+          ]
+        },
+        {
+          "id": 10,
+          "question": "Найдите площадь квадрата со стороной 8 см.",
+          "options": [
+            "48 см²",
+            "56 см²",
+            "64 см²",
+            "72 см²"
+          ],
+          "answer": "64 см²",
+          "video": [
+            "https://youtu.be/pSx8HeVMb1k"
+          ]
+        }
       ]
     }
   }

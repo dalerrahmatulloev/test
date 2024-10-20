@@ -25,7 +25,6 @@ function App() {
       console.error(error);
     }
   }
-  console.log(data);
 
   const handleAnswer = (selectedOption) => {
     const answer = data[answerIndex];
@@ -82,7 +81,7 @@ function App() {
                       label: "Продвинутый уровень",
                     },
                   ]}
-                  placeholder="select it"
+                  placeholder="Выберите сложность"
                 />
               </div>
 
@@ -99,22 +98,22 @@ function App() {
                   options={[
                     {
                       value: "math",
-                      label: "Math",
+                      label: "Математика",
                     },
                     {
                       value: "history",
-                      label: "History",
+                      label: "История",
                     },
                     {
                       value: "english",
-                      label: "English",
+                      label: "Английский",
                     },
                     {
                       value: "russian",
-                      label: "Russian",
+                      label: "Русский",
                     },
                   ]}
-                  placeholder="select it"
+                  placeholder="Выберите тип"
                 />
               </div>
 
@@ -147,7 +146,7 @@ function App() {
                         label: "Тригонометрия",
                       },
                     ]}
-                    placeholder="select it"
+                    placeholder="Выберите подтип"
                   />
                 </div>
               ) : null}
@@ -202,7 +201,7 @@ function App() {
               </div>
             </div>
           ) : (
-            <div>
+            <div className="text-[20px] text-center text-[#0084ff]">
               <h2>Поздравляем! Вы ответили правильно на все вопросы!</h2>
               <p>
                 Но раслобоятся не надо, советую вам повторить ваши знания или
